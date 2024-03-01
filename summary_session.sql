@@ -305,4 +305,4 @@ INSERT INTO mytable(FIELD1,children,days_employed,age,gender,education) VALUES (
 INSERT INTO mytable(FIELD1,children,days_employed,age,gender,education) VALUES (296,0,741.1272798825229,43,'F','higher');
 INSERT INTO mytable(FIELD1,children,days_employed,age,gender,education) VALUES (297,0,471.7627961551879,45,'F','secondary');
 INSERT INTO mytable(FIELD1,children,days_employed,age,gender,education) VALUES (298,1,1082.79895063531,44,'F','secondary');
-INSERT INTO mytable(FIELD1,children,days_employed,age,gender,education) VALUES (299,0,1433.3817756275732,28,'F','higher');mytable
+INSERT INTO mytable(FIELD1,children,days_employed,age,gender,education) VALUES (299,0,1433.3817756275732,28,'F','higher');
